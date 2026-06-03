@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Waseem 👋
 
-<!--
-**wasem1a1w-sketch/wasem1a1w-sketch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Laravel Developer** with 4.5+ years of experience building production web applications.
 
-Here are some ideas to get you started:
+📍 Amman, Jordan
+💼 Open to senior Laravel roles or remote international opportunities
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I Build
+
+- **Multi-currency financial engines** with custom file-locking for concurrency
+- **Payment integrations** (Stripe, PayPal, crypto) with webhook handling
+- **Real-time applications** using Laravel Reverb WebSockets
+- **Clean architectures** with Service Layer, DTOs, and Strategy Pattern
+
+## Recent Work
+
+✅ **Laravel E-Commerce** – Full-stack platform with 170+ tests (unit, feature, acceptance, integration)
+✅ **Lockbox (Go)** – CLI password vault with AES-256-GCM encryption and PBKDF2
+
+## Currently Learning
+
+- Go (systems programming)
+
+## Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-url)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-one-ebon-82.vercel.app)
